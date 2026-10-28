@@ -36,5 +36,5 @@ npm run data
 
 ## 公開
 
-`main` ブランチに push すると GitHub Actions（`.github/workflows/deploy.yml`）で GitHub Pages にデプロイされます。
+`main`（または `claude/site-quiz-feature-g2h7nm`）ブランチに push すると GitHub Actions（`.github/workflows/deploy.yml`）で GitHub Pages にデプロイされます。
 初回のみリポジトリの Settings → Pages → Source を「GitHub Actions」にしてください。
