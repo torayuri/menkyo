@@ -1,13 +1,12 @@
 {
-  "name": "menkyo",
+  "name": "zenbu-jidouka",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "preview": "vite preview",
-    "data": "python3 scripts/xlsx_to_json.py"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.3.1",
