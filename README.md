@@ -27,5 +27,5 @@ npm run build    # dist/ に本番ビルド
 
 ## 公開
 
-`main`（または `ccr-014a04e7-dfinu9`）ブランチに push すると GitHub Actions（`.github/workflows/deploy.yml`）で GitHub Pages にデプロイされます。
+`main`（または `claude/site-quiz-feature-g2h7nm`）ブランチに push すると GitHub Actions（`.github/workflows/deploy.yml`）で GitHub Pages にデプロイされます。
 初回のみリポジトリの Settings → Pages → Source を「GitHub Actions」にしてください。
